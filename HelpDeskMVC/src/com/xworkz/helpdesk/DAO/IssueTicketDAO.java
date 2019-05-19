@@ -1,5 +1,5 @@
 package com.xworkz.helpdesk.DAO;
-//from git hub
+//from git hub hub
 import com.xworkz.helpdesk.DTO.IssueTicketDTO;
 import com.xworkz.helpdesk.entity.IssueTicketEntity;
 
